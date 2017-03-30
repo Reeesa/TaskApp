@@ -16,7 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 * [Java SDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 * A copy of TaskApp project in GitHub repository
 
-If it's your first time using Android Studio, I suggest following this tutorial to set it up on your computer: [androidauthority](http://www.androidauthority.com/android-app-development-complete-beginners-658469/)
+If it's your first time using Android Studio, I suggest following this tutorial to set it up on your computer: [Android Authority](http://www.androidauthority.com/android-app-development-complete-beginners-658469/)
 
 Once Android Studio is good to go, import the project from your GitHub repository.
 
